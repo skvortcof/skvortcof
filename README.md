@@ -2,7 +2,7 @@
 
 - [Exication](https://skvortcof.github.io/exication/)
 - [Volokno](https://skvortcof.github.io/b16/)
-- [Gibernacid](https://github.com/skvortcof/gibernacid/)
+- [Gibernacid](https://skvortcof.github.io/gibernacid/)
 
 ### Exication
 Poem
