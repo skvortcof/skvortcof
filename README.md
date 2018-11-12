@@ -1,14 +1,22 @@
 ## Projects
 
 - [Exication](https://skvortcof.github.io/exication/)
-- [Volokno](https://skvortcof.github.io/b16/)
 - [Gibernacid](https://skvortcof.github.io/gibernacid/)
+- [Volokno](https://skvortcof.github.io/b16/)
+- Project "O"
+- Project "I"
+
+### Project "O"
+in progress
+
+### Project "I"
+in progress
 
 ### Exication
 Poem
 
-### Volokno
-Poems collection
-
 ### Gibernacid
 Poem
+
+### Volokno
+Poems collection
