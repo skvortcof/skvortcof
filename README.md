@@ -3,11 +3,11 @@
 - [Exication](https://skvortcof.github.io/exication/)
 - [Gibernacid](https://skvortcof.github.io/gibernacid/)
 - [Volokno](https://skvortcof.github.io/b16/)
-- Project "O"
+- [drammatical-octagon](https://skvortcof.github.io/drammatical-octagon/)
 - Project "I"
 
 ### Project "O"
-in progress
+done
 
 ### Project "I"
 in progress
