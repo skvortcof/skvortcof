@@ -3,7 +3,7 @@
 - [Exication](https://skvortcof.github.io/exication/)
 - [Gibernacid](https://skvortcof.github.io/gibernacid/)
 - [Volokno](https://skvortcof.github.io/b16/)
-- [drammatical-octagon](https://skvortcof.github.io/drammatical-octagon/)
+- [Drammatical Octagon](https://skvortcof.github.io/drammatical-octagon/)
 - Project "I"
 
 ### Project "O"
